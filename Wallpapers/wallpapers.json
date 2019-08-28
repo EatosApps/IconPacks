@@ -1,863 +1,864 @@
-[
+{
+	"wallpapers": [
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(1).jpg",
-	},
-	{
-		"name": "Eatos",
-		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(8).jpg"
+	},
+	{
+		"name": "Eatos",
+		"author": "Tab S6",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Tab_S6/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_10/wallpaper(10).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(11).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(11).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(12).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(12).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(13).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(13).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(14).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(14).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(15).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(15).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S10",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(16).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S10/wallpaper(16).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_9/wallpaper(10).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(11).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(11).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(12).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(12).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(13).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S9/wallpaper(13).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_8/wallpaper(9).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(11).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(11).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(12).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(12).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(13).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(13).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(14).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(14).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(15).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(15).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(16).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(16).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(17).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(17).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(18).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(18).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S8",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(19).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S8/wallpaper(19).jpg"
 	},			
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_7/wallpaper(9).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(11).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(11).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(12).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(12).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(13).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(13).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(14).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(14).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(15).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(15).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(16).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(16).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(17).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(17).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(18).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(18).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(19).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S7/wallpaper(19).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "Note 5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Note 5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/Note_5/wallpaper(6).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "S6",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(11).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/S6/wallpaper(11).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "ON5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "ON5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "ON5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "ON5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "ON5",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/ON5/wallpaper(5).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "J7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "J7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "J7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "J7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/J7/wallpaper(4).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "C9",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/C9/wallpaper(8).jpg"
 	},	
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "A",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Galaxy/A/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(1).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(1).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(2).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(2).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(3).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(3).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(4).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(4).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(5).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(5).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(6).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(6).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(7).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(7).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(8).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(8).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(9).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(9).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(10).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(10).jpg"
 	},		
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(11).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(11).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(12).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(12).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(13).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(13).jpg"
 	},
 	{
 		"name": "Eatos",
 		"author": "Web",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(14).jpg",
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(14).jpg"
         }	
 	]
 }
