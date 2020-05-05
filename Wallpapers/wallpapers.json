@@ -1,4 +1,5 @@
-[
+{
+	"wallpapers": [
 	{
 		"name": "Eatos",
 		"author": "Tab S6",
@@ -858,5 +859,6 @@
 		"name": "Eatos",
 		"author": "Web",
 		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/Other/wallpaper(14).jpg"
-    }
-]
+        }	
+	]
+}
