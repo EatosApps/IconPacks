@@ -1,5 +1,4 @@
-{
-	"wallpapers": [
+[
 	{
 		"name": "Eatos",
 		"author": "iPhone 11",
@@ -1088,7 +1087,6 @@
 	{
 		"name": "Eatos",
 		"author": "iOS 7",
-		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/iOS_7/wallpaper(16).jpg"
-        }	
-	]
-}
+		"url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/iOS_7/wallpaper(16).jpg"	
+    }
+]
