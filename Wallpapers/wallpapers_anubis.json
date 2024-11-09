@@ -2,12 +2,14 @@
     {
         "name": "Wallpaper 01",
         "author": "Web",
-        "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/04_Normal/Wallpaper_01.jpg"
+        "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/04_Normal/Wallpaper_01.jpg",
+        "collections": "NEW"
     },
     {
         "name": "Wallpaper 02",
         "author": "Web",
-        "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/04_Normal/Wallpaper_02.jpg"
+        "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/04_Normal/Wallpaper_02.jpg",
+        "collections": "NEW"
     },
     {
         "name": "Wallpaper 03",
