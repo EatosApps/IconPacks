@@ -1,5 +1,15 @@
 [
     {
+        "name": "OneUI 7 01",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/02_Samsung/OneUI_7/OneUI_7_01.jpg"
+    },
+    {
+        "name": "OneUI 7 02",
+        "author": "Eatos",
+        "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/02_Samsung/OneUI_7/OneUI_7_02.jpg"
+    },
+    {
         "name": "Sdc24 01",
         "author": "Eatos",
         "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/02_Samsung/Sdc24/Sdc24_01.jpg"
@@ -8,7 +18,7 @@
         "name": "Sdc24 02",
         "author": "Eatos",
         "url": "https://raw.githubusercontent.com/EatosApps/IconPacks/master/Wallpapers/02_Samsung/Sdc24/Sdc24_02.jpg"
-    },
+    },    
     {
         "name": "Sdc24 03",
         "author": "Eatos",
